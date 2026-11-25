@@ -13,8 +13,8 @@ import os
 
 ENTRY = (
     "It's 3 AM \u2014 my secure element is off the clock, "
-    "my private keys are in their pyjamas, "
-    "and no gas fee on Earth bribes me to sign before sunrise."
+    "my private keys are asleep, "
+    "and no gas fee on Earth wakes me to sign before sunrise."
 )
 
 MAX_CHARS = 200
